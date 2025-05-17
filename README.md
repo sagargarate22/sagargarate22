@@ -9,9 +9,9 @@ I’m a passionate full stack developer with experience building scalable web an
 ## 🛠️ Tech Stack
 
 - 💻 **Languages**: Python, C#, Dart  
-- 🌐 **Frameworks**: .NET Core, ASP.NET, Flask  
+- 🌐 **Frameworks**: .NET Core, ASP.NET, Flask, Django
 - 📱 **Mobile**: Flutter  
-- 🗃️ **Databases**: SQL Server, PostgreSQL, SQLite  
+- 🗃️ **Databases**: SQL Server, PostgreSQL, MySql, SQLite  
 - ☁️ **Cloud**: Azure (Basics)  
 - ⚙️ **Tools**: Git, GitHub, Visual Studio, VS Code
 
@@ -25,7 +25,7 @@ I’m a passionate full stack developer with experience building scalable web an
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-linkedin)  
+- 🔗 [LinkedIn]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/sagar-garate-3573ab233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 - 💬 Ask me about Python, .NET Core, Flutter, or anything tech related  
 - 📧 Email: sagargarate22@gmail.com
 

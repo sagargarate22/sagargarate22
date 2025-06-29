@@ -12,8 +12,9 @@ I’m a passionate full stack developer with experience building scalable web an
 - 🌐 **Frameworks**: .NET Core, ASP.NET, Flask, Django
 - 📱 **Mobile**: Flutter  
 - 🗃️ **Databases**: SQL Server, PostgreSQL, MySql, SQLite  
-- ☁️ **Cloud**: Azure (Basics)  
+- ☁️ **Cloud**: Azure (Basics)
 - ⚙️ **Tools**: Git, GitHub, Visual Studio, VS Code
+- 🐳 DevOps & Tools: Docker, GitHub Actions
 
 ---
 

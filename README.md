@@ -27,10 +27,8 @@ I’m a passionate full stack developer with experience building scalable web an
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn]([(https://linkedin.com/in/sagar-garate-3573ab233)])  
-- 💬 Ask me about Python, .NET Core, Flutter, or anything tech related  
 - 📧 Email: sagargarate22@gmail.com
 - 🚀 [Portfolio]([https://sagargarate22.github.io/sagar-portfolio/])
+- 💬 Ask me about Python, .NET Core, Flutter, or anything tech related  
 
 ---
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
